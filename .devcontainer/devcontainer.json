@@ -1,0 +1,6 @@
+{
+    "name": "Flutter",
+    "features": {
+        "ghcr.io/devcontainers/features/flutter:1": {}
+    }
+}
